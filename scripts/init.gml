@@ -1,5 +1,5 @@
-hurtbox_spr = asset_get("ex_guy_hurt_box");
-crouchbox_spr = asset_get("ex_guy_crouch_box");
+hurtbox_spr = asset_get("ferret_hurtbox");
+crouchbox_spr = asset_get("wolf_hurtbox");
 air_hurtbox_spr = -1;
 hitstun_hurtbox_spr = -1;
 
